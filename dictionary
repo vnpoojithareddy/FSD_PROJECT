@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dictionary</title>
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: rgb(13, 17, 19);
+            font-weight: bold;
+            font-size: 36px;
+            margin-top: 30px;
+        }
+
+        p {
+            font-size: 18px;
+            margin: 10px auto 30px;
+            width: 80%;
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 20px;
+            border: 2px solid black;
+            border-radius: 10px;
+            width: 60%;
+            margin: auto;
+            background-color: #f9f7c7;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        li {
+            margin: 12px 0;
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            color: rgb(88, 126, 138);
+            padding: 10px 20px;
+            border-radius: 6px;
+            display: inline-block;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        a:hover {
+            background-color: rgb(129, 171, 184);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dictionary</h1>
+    <p>Welcome to the dictionary page. Here you can find definitions and meanings of various words.</p>
+    <ul>
+        <li><a href="Cajole.html">Cajole</a></li>
+        <li><a href="Futzing.html">Futzing</a></li>
+        <li><a href="Hellacious.html">Hellacious</a></li>
+        <li><a href="Inept.html">Inept</a></li>
+        <li><a href="Frivolous.html">Frivolous</a></li>
+        <li><a href="Obfuscate.html">Obfuscate</a></li>
+        <li><a href="Quintessential.html">Quintessential</a></li>
+        <li><a href="Ubiquitous.html">Ubiquitous</a></li>
+        <li><a href="Zealous.html">Zealous</a></li>
+        <li><a href="Voracious.html">Voracious</a></li>
+        <li><a href="Acrimonious.html">Acrimonious</a></li>
+        <li><a href="Benevolent.html">Benevolent</a></li>
+        <li><a href="Cacophony.html">Cacophony</a></li>
+        <li><a href="Dichotomy.html">Dichotomy</a></li>
+        <li><a href="Ebullient.html">Ebullient</a></li>
+        <li><a href="Facetious.html">Facetious</a></li>
+        <li><a href="Wistful.html">Wistful</a></li>
+        <li><a href="Xenophobia.html">Xenophobia</a></li>
+        <li><a href="Yen.html">Yen</a></li>
+        <li><a href="Zephyr.html">Zephyr</a></li>   
+        </ul>
+</body>
+</html>
